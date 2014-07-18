@@ -1,0 +1,13 @@
+keyValue=
+remoteEnable=
+runTime=
+firstRun=
+secondRun=
+host=
+db=
+user=
+pass=
+emailEnable=
+emailServer=
+emailUser=
+emailPass=
